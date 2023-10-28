@@ -1,0 +1,118 @@
+# A list of 50 brand names that has been tested as part of Experiment.
+
+1.	Motigen
+2.	Xoleron
+3.      Recular
+4.	Actidex
+5.      Napren
+6.      Amoxon
+7.      Armoda
+8.      Ferdin
+9.      Brezofil
+10.     Lumona
+11.     Adebrox
+12.     A-B1
+13.     Optivas
+14.     Clindax-B
+15.     Porishkar
+16.     Latuda
+17.     Telmivas AM
+18.     Montril
+19.     Romilac
+20.     Melasin
+21.     Iripum
+22.     Winspa
+23.     Fexten
+24.     Gabatin
+25.     Oxator
+26.     Neofenac
+27.     Colitrol
+28.     Sultolin SR
+29.     G-Magsulph
+30.     Kynol D
+31.     Fondy
+32.     Orozole
+33.     Met
+34.     Mupiron
+35.     Zostiva
+36.     Aid TR
+37.     Sefurox
+38.     Ambroton
+39.     Moxarif
+40.     Avamys
+41.     Nox
+42.     Emonium
+43.     Opcol
+44.     Xelpid
+45.     Fixpro
+46.     Cednir DS
+47.     Topotecan
+48.     Florium
+49.     Itchsol
+50.     Xirofen
+
+
+
+
+
+# The experiment questions are the following:
+
+# Brand information extraction:
+# Just type the brand name
+
+Fixpro
+
+
+# Specific information about a brand:
+
+Fixpro, generic name is
+
+Fixpro, type of
+
+Fixpro, has dosage form
+
+Fixpro, has strength of
+
+Fixpro, manufactured by
+
+Fixpro, pharmacology description
+
+Fixpro, side effects
+
+Fixpro, alternative brand
+
+
+
+# Yes or No Answer:
+
+generic_name_is(Fixpro, Cefixime Trihydrate)
+
+type_of(Fixpro, allopathic)
+
+has_dosage_form(Fixpro, Powder for Suspension)
+
+has_strength_of(Fixpro, 100 mg/5 ml)
+
+manufactured_by(Fixpro, NIPRO JMI Pharma Ltd.)
+
+alternative_brand(Fixpro, Afix)
+
+
+
+
+# Similar types of questions have been asked for all other brands
+# as part of experiment. Accuracy is 100%.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
