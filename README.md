@@ -11,13 +11,8 @@ Domain Specific Medicine Dictionary (DSMD) was constructed as part of Masters th
 
 ## About
 
-DSMD was constructed based on the principles of knowledge graph. Our dictionary is composed of structured triples, where each entity
-is defined as a concept, and these concepts are interconnected through relationships. This comprehensive dictionary boasts more than 348,000 triples, 
-encompassing over 20,000 medicine brands and 1,500 generic medicines. It offers a groundbreaking approach to storing and accessing medical data.
-Our dictionary facilitates various functionalities, including medicine brand information extraction,
-brand-specific queries, as well as queries involving two words or question answering. We anticipate
-that our dictionary will serve a broad spectrum of users, catering to both human users, such as
-diverse range of healthcare professionals as well as AI applications.
+Domain Specific Medicine Dictionary (DSMD) facilitates medicine related information retrival and question answering. We envisage the application of DSMD in various
+areas including healthcare professions as well as AI applications.
 
 ## Folders
 
