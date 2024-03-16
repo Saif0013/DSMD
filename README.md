@@ -39,6 +39,7 @@ To run this project, you will need the following:
 
 Python packages:
 
+- Pandas
 - textwrap
 - shutil
 - tkinter
