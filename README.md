@@ -36,7 +36,13 @@ This repository is organized into the following folders:
 To run this project, you will need the following:
 
 - Python 3.7 or higher
-- Pandas
+
+Python packages:
+
+- textwrap
+- shutil
+- tkinter
+- ttk
 
 #### Installation
 
